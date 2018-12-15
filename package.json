@@ -1,0 +1,16 @@
+{
+  "name": "lib-mealie-crypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.15",
+    "js-yaml": "^3.12.0",
+    "secure-random": "^1.1.1",
+    "sshpk": "^1.15.2"
+  }
+}
